@@ -6,7 +6,7 @@ Requirements:
   - Internet Browser
   - Python version 3.10
   
-Libraties:
+Libraries:
   - Pandas
   
   Detailed Description:
